@@ -526,7 +526,7 @@ class: thanks clear middle
 <br>
 
 Presentation repository:  
-`r icon::fa("github")` https://github.com/MalditoBarbudo/2019_dplyr_girona
+`r icon::fa("github")` https://github.com/MalditoBarbudo/2019_dplyr_girona_aeet
 
 <br>
 
