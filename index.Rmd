@@ -259,7 +259,6 @@ arrange(babynames, desc(prop))
 .middle[.center[.font200[
 `mutate`
 ]]]
-.center[![](resources/images/mutate.png)]
 
 ---
 
